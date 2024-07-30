@@ -5,10 +5,8 @@ git clone https://github.com/JayceNing/AI_study_notes.git
 email=duhanyue349@163.com
 name=duhanyue349
 
-git add *
-
 git init
-
+git add *
 git add README.md
 
 git commit -m "first commit"
